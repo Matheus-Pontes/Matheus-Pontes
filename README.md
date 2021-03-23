@@ -6,6 +6,9 @@
    - HTML CSS E JavaScript 
    - Python
    - C++ for microcontrolers(PIC, Arduino, ESP e etc)
+ - My hoobs:
+   - soccer :soccer:, basket :basketball: and party :beer: i'm so happy 
+ #neverstoplearning :rocket:
  
 <!--
 
