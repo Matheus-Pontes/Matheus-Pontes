@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there I'm Matheus Pontes 👋
 
+ - 👨‍🎓 Student at Computer Science
+ - 👨‍💻: Electronics Technician
+ - My habilites:
+  - HTML CSS E JavaScript 
+  - Python
+  - C++ for microcontrolers(PIC, Arduino, ESP e etc)
+ 
 <!--
-**Matheus-Pontes/Matheus-Pontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
