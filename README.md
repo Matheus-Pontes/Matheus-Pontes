@@ -3,9 +3,9 @@
  - 👨‍🎓 Student at Computer Science
  - 👨‍💻: Electronics Technician
  - My habilites:
-  - HTML CSS E JavaScript 
-  - Python
-  - C++ for microcontrolers(PIC, Arduino, ESP e etc)
+   - HTML CSS E JavaScript 
+   - Python
+   - C++ for microcontrolers(PIC, Arduino, ESP e etc)
  
 <!--
 
