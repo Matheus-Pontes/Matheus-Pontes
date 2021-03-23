@@ -11,7 +11,7 @@
  #neverstoplearning :rocket:
  
 - Contact:
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pontes-95b9761b5/)](https://www.linkedin.com/in/matheus-pontes-95b9761b5/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pontesm10/)](https://www.instagram.com/pontesm10/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pontes-95b9761b5/)](https://www.linkedin.com/in/matheus-pontes-95b9761b5/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pontesm10/)](https://www.instagram.com/pontesm10/)
  
 <!--
 
