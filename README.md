@@ -1,12 +1,12 @@
 ### Hi there I'm Matheus Pontes 👋
 
  - 👨‍🎓 Student at Computer Science
- - 👨‍💻: Electronics Technician
+ - 👨‍💻 Electronics Technician
  - My habilites:
    - HTML CSS E JavaScript 
    - Python
    - C++ for microcontrolers(PIC, Arduino, ESP e etc)
- - My hoobs:
+ - My hobbys:
    - soccer :soccer:, basket :basketball: and party :beer: i'm so happy 
  #neverstoplearning :rocket:
  
