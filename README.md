@@ -2,7 +2,7 @@
 
  - 👨‍🎓 Student at Computer Science
  - 👨‍💻 Electronics Technician
- - My habilites:
+ - My skills:
    - HTML CSS E JavaScript 
    - Python
    - C++ for microcontrolers(PIC, Arduino, ESP e etc)
