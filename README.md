@@ -1,14 +1,14 @@
 ### Hi there I'm Matheus Pontes 👋
 
- - 👨‍🎓 Student at Computer Science
- - 👨‍💻 Electronics Technician
+  - 👨‍💻Student at Computer Science
+  - 👨‍🎓Electronics Technician
  - My skills:
-   - HTML CSS E JavaScript 
+   - HTML CSS  JavaScript 
    - Python
    - C++ for microcontrolers(PIC, Arduino, ESP e etc)
  - My hobbys:
-   - soccer :soccer:, basket :basketball: and party :beer: i'm so happy 
- #neverstoplearning :rocket:
+   - soccer :soccer: and basket :basketball:
+ :rocket: #neverstoplearning 
  
 - Contact:
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-pontes-95b9761b5/)](https://www.linkedin.com/in/matheus-pontes-95b9761b5/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pontesm10/)](https://www.instagram.com/pontesm10/)
