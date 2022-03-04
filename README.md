@@ -1,10 +1,9 @@
-### Hi there I'm Matheus Pontes 👋
+## Hi there I'm Matheus Pontes 👋
 
   - 👨‍💻Student at Computer Science
   - 👨‍🎓Electronics Technician
  - My skills:
-   - HTML CSS  JavaScript 
-   - Python
+   - HTM, CSS and JavaScript 
    - C++ for microcontrolers(PIC, Arduino, ESP e etc)
  - My hobbys:
    - soccer :soccer: and basket :basketball:
