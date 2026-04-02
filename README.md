@@ -1,13 +1,8 @@
-# Olá, Sou Matheus Pontes/DevPontes
-## Fullstack developer, como principal stack o desenvolvimento front-end web/mobile
+# Olá, sou o DevPontes
+- Fullstack developer, como principal stack o desenvolvimento front-end web/mobile.
 
-[Acesse meu site](https://matheuspontes.vercel.app/)
+[Acesse meu site portfolio onde coloquei em destaque meus projetos e habilidades](https://matheuspontes.vercel.app/)
 
-<div align="center">
-  <a href="https://github.com/Matheus-Pontes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Pontes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Pontes&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pontes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pontes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
